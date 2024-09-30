@@ -5,7 +5,7 @@ proyecto de 42 malaga en el cual tenemos que crear un servidor y un cliente .
 
 ## Supported Versions
 
-En la actuañllidad la version 5.1 funciona y pasa las correcciones con el 125% completado.
+En la actuañllidad la version 1.1 funciona y pasa las correcciones con el 115% completado.
 
 | Version | Supported          |
 | ------- | ------------------ |
