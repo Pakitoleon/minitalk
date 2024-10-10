@@ -3,6 +3,8 @@ proyecto de 42 malaga en el cual tenemos que crear un servidor y un cliente .
 
 # Security Policy
 
+https://github.com/Pakitoleon/minitalk?tab=GPL-3.0-1-ov-file#readme
+
 ## Supported Versions
 
 En la actuañllidad la version 1.1 funciona y pasa las correcciones con el 115% completado.
